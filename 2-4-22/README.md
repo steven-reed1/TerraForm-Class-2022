@@ -1,3 +1,2 @@
-## Example: Basic Windows Virtual Machine
+## Example: Exmaple of how to create a terraform Resource Group
 
-This example provisions a basic Windows Virtual Machine
